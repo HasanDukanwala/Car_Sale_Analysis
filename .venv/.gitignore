@@ -1,0 +1,19 @@
+# created by virtualenv automatically
+
+# Virtual environment
+venv/
+.idea/
+.vscode/
+
+# Cache & Logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Jupyter Notebook Checkpoints (if used)
+.ipynb_checkpoints/
+
+# Data files (optional, if dataset is large)
+#*.csv
+#*.xlsx
